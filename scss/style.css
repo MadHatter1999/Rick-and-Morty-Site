@@ -1,0 +1,26 @@
+#menu {
+  max-height: 40em;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#Epi {
+  max-height: 20em;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#display {
+  max-height: 40em;
+  overflow-y: none;
+}
+
+.icon {
+  max-width: 30px;
+  max-height: 30px;
+}
+
+.container {
+  background-color: lightgray;
+}
+/*# sourceMappingURL=style.css.map */
